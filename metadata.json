@@ -1,0 +1,5 @@
+{
+  "name": "Weight & Price Pro",
+  "description": "A professional weight-based price calculator for retail, grocery, and jewelry businesses. Supports real-time unit conversion (Kg to Grams), calculation history, and dark mode.",
+  "requestFramePermissions": []
+}
